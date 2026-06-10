@@ -1,0 +1,2 @@
+# global
+Todos arquivos/trabalhos
